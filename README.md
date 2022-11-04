@@ -2,12 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project will help to understand basics of HTML, CSS, JavaScript and more. Step by step process shows which applications are needed to start learning Web Development so students don't have to spend hours looking for informations.  
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+HTML: How to create basic website page structure: <html><head><body>.
+CSS: Using styles to apply colors, shapes.
+JavaScript: Introduction to programing language. 
 
 
 ## Installation
