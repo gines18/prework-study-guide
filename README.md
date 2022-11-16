@@ -4,8 +4,8 @@
 
 This project will help to understand basics of HTML, CSS, JavaScript and more. Step by step process shows which applications are needed to start learning Web Development so students don't have to spend hours looking for informations.  
 
-HTML: How to create basic website page structure: <html><head><body>.
-CSS: Using styles to apply colors, shapes.
+HTML: How to create basic website, page structure: <html><head><body>.
+CSS: Using styles to apply colors, shapes. 
 JavaScript: Introduction to programing language. 
 
 
